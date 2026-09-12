@@ -1,3 +1,8 @@
+# Hi🖐️, I'm Saber Nsiri
+🎓I'm a Software Engineering student | ✔️ Discovering new technologies | 🔒Learning Cyber Security & AI | 🔭 Seeking new opportunities
+<br>
+
+
 # 💫 About Me:
 🎓I'm a Software Engineering student<br>🔒I'm a Cyber Security learner & CTF Player<br>✔️AI & ML learner<br>🔭Seeking freelance and internship opportunities<br><br>
 
